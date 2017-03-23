@@ -15,6 +15,8 @@ Prediction markets are also known as predictive markets, information markets, de
 SQLite is included, so you only need a D compiler
 and the dub packaging tool.
 
+OSX) brew install dub dmd
+
 1. Compile and run prema via `dub`.
 2. Browse to `http://127.0.0.1:8080`.
 
